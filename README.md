@@ -1,14 +1,14 @@
-# Food Names API 🍗🍔🍕🍜
+# Place Names API 🍗🍔🍕🍜
 
-+ An API that will return random Food Names 🍡🥧🎂🌮
-+ Dedicated To All Food Lovers ❤️
++ An API that will return random Place Names 🍡🥧🎂🌮
++ Dedicated To All Place Lovers ❤️
 
 ## Usage:
 
-+ `https://food-names-api.herokuapp.com` to get the documentation.
-+ `https://food-names-api.herokuapp.com/api/Food-Names/all` to get all the Food Names at once.
-+ Change `all` to parameter `?number=` to specify the number of Food Names you want to receive.
-+ Change `all` to parameter `?index=` to specify the index of the Food Name you are targeting.
++ `https://place-names-api.herokuapp.com` to get the documentation.
++ `https://place-names-api.herokuapp.com/api/Place-Names/all` to get all the Place Names at once.
++ Change `all` to parameter `?number=` to specify the number of Place Names you want to receive.
++ Change `all` to parameter `?index=` to specify the index of the Place Name you are targeting.
 
 This project is hosted by [Heroku](https://www.heroku.com/)
 
@@ -22,16 +22,16 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 
 ## Example:
 
-+ `https://food-names-api.herokuapp.com/api/Food-Names?number=1` returns: ↓
++ `https://place-names-api.herokuapp.com/api/Place-Names?number=1` returns: ↓
 ```JSON
 [
   {
-    "Food_Name": "Mutton Soup"
+    "Place_Name": "Mutton Soup"
   }
 ]
 ```
 
-+ `https://food-names-api.herokuapp.com/api/Food-Names?number=2` returns: ↓
++ `https://place-names-api.herokuapp.com/api/Place-Names?number=2` returns: ↓
 ```JSON
 [
   {
