@@ -1,6 +1,6 @@
 # Place Names API 🗼🏞️🗽🌉
 
-+ An API that will return random Place Names 🚞🗻🏛️
++ An API that will return random Place Names 🚞🗻🏛️🏗️
 + Dedicated To All Place Lovers ❤️
 
 ## Usage:
