@@ -26,7 +26,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ```JSON
 [
   {
-    "Place_Name": "Mutton Soup"
+    "Place_Name": "Pittsburgh"
   }
 ]
 ```
@@ -35,10 +35,10 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ```JSON
 [
   {
-    "Food_Name": "Gobi Munchuriyan"
+    "Place_Name": "Dallas"
   }, 
   {
-    "Food_Name": "Chicken fingers"
+    "Place_Name": "New York"
   }
 ]
 ```
