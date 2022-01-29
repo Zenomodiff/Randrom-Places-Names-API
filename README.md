@@ -10,7 +10,7 @@
 + Change `all` to parameter `?number=` to specify the number of Place Names you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the Place Name you are targeting.
 
-This project is hosted by [Heroku](https://www.heroku.com/)
+This project is hosted on [Heroku](https://www.heroku.com/) with zenomodiffofficial@gmail.com
 
 ## Rebuild the project:
 + Clone the repo.
