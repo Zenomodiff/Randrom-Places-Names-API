@@ -5,8 +5,8 @@
 
 ## Usage:
 
-+ ### [https://randomplacenamefactsapi.herokuapp.com/](https://randomplacenamefactsapi.herokuapp.com/) to get the documentation.
-+ ### [https://randomplacenamefactsapi.herokuapp.com/api/Place-Names/all](https://randomplacenamefactsapi.herokuapp.com/api/Place-Names/all) to get all the Place Names at once.
++ ### [https://randomplacenamefactsapi.herokuapp.com/](https://randomplacenameapi.herokuapp.com/) to get the documentation.
++ ### [https://randomplacenamefactsapi.herokuapp.com/api/Place-Names/all](https://randomplacenameapi.herokuapp.com/api/Place-Names/all) to get all the Place Names at once.
 + Change `all` to parameter `?number=` to specify the number of Place Names you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the Place Name you are targeting.
 
@@ -22,7 +22,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 
 ## Example:
 
-+ ### [https://randomplacenamefactsapi.herokuapp.com/api/Place-Names?number=1](https://randomplacenamefactsapi.herokuapp.com/api/Place-Names?number=1) returns: ↓
++ ### [https://randomplacenamefactsapi.herokuapp.com/api/Place-Names?number=1](https://randomplacenameapi.herokuapp.com/api/Place-Names?number=1) returns: ↓
 ```JSON
 [
   {
@@ -31,7 +31,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ]
 ```
 
-+ ### [https://randomplacenamefactsapi.herokuapp.com/api/Place-Names?number=2](https://randomplacenamefactsapi.herokuapp.com/api/Place-Names?number=1) returns: ↓
++ ### [https://randomplacenamefactsapi.herokuapp.com/api/Place-Names?number=2](https://randomplacenameapi.herokuapp.com/api/Place-Names?number=1) returns: ↓
 ```JSON
 [
   {
