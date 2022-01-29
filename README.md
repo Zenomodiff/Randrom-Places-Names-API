@@ -5,8 +5,8 @@
 
 ## Usage:
 
-+ `https://place-names-api.herokuapp.com` to get the documentation.
-+ `https://place-names-api.herokuapp.com/api/Place-Names/all` to get all the Place Names at once.
++ `https://randomplacenamefactsapi.herokuapp.com/` to get the documentation.
++ `https://randomplacenamefactsapi.herokuapp.com/api/Place-Names/all` to get all the Place Names at once.
 + Change `all` to parameter `?number=` to specify the number of Place Names you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the Place Name you are targeting.
 
