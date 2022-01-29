@@ -31,7 +31,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ]
 ```
 
-+ ### [https://randomplacenamefactsapi.herokuapp.com/api/Place-Names?number=2](https://randomplacenameapi.herokuapp.com/api/Place-Names?number=1) returns: ↓
++ ### [https://randomplacenamefactsapi.herokuapp.com/api/Place-Names?number=2](https://randomplacenameapi.herokuapp.com/api/Place-Names?number=2) returns: ↓
 ```JSON
 [
   {
